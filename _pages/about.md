@@ -5,7 +5,7 @@ permalink: /
 subtitle: Research Associate at the Debora Marks Lab, Harvard Medical School.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
 
