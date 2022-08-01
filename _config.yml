@@ -124,12 +124,13 @@ pagination:
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
+# To enable news again, use output: true and populate the news/ directory
 
 collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /news/:path/
   projects:
     output: true
