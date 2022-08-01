@@ -6,7 +6,7 @@ subtitle: Research Associate at the Debora Marks Lab, Harvard Medical School.
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: head_photo_2020.jpg
   image_cicular: false # crops the image to make it circular
 
 news: true  # includes a list of news items
